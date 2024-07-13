@@ -1,0 +1,59 @@
+.overlay{
+    position: absolute;
+    top: 30%;
+    right:65%;
+    color: green;
+    margin-left: 50px;
+}
+
+.row1{
+    display: flex;
+    margin-top: 60px;
+}
+.row1 img{
+width: 100%;
+}
+
+
+.row1 h3{
+    color:rgb(44, 134, 22) ;
+    margin-top: 150px;
+    margin: 10px;
+    margin-left: 80px;
+}
+
+.row1 p{
+    text-align: justify;
+    color:rgb(44, 134, 22) ;
+  
+
+}
+
+.row2{
+    display: flex;
+   
+}
+
+.row2 img{
+    width: 100%;
+    }
+    
+    
+    .row2 h3{
+        color:rgb(44, 134, 22) ;
+        margin-top: 150px;
+        
+        margin-left: 80px;
+    }
+    
+    .row2 p{
+        text-align: justify;
+        color:rgb(44, 134, 22) ;
+      
+    
+    }
+    .h4{
+        color:rgb(44, 134, 22) ;
+        text-align: center;
+
+    }
